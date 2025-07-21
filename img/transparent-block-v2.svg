@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 28.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="transparent-block" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 340.4 289.7" style="enable-background:new 0 0 340.4 289.7;" xml:space="preserve">
+<g id="transparent-block-floor">
+	<polygon style="opacity:5.000000e-02;fill:var(--floorColour, #FEACA1);" points="170,120.7 285.7,187.4 170,254.2 54.3,187.4 	"/>
+	<polygon style="opacity:0.1;fill:var(--floorColour, #FEACA1);" points="170,128.2 272.5,187.4 170,246.7 67.5,187.4 	"/>
+	<polygon style="opacity:0.2;fill:var(--floorColour, #FEACA1);" points="170,132.7 264.8,187.4 170,242.2 75.2,187.4 	"/>
+	<polygon style="opacity:0.4;fill:var(--floorColour, #FEACA1);" points="168.7,134.4 260.5,187.4 168.7,240.5 76.8,187.4 	"/>
+	<polygon style="fill:var(--floorColour, #FEACA1);" points="170,137.1 257.2,187.4 170,237.8 82.8,187.4 	"/>
+</g>
+<g id="looping-pulse-_x23_7c4dff">
+	<path style="fill:none;stroke:var(--outlineColour, #2395AC);stroke-width:1.3453;" d="M196.6,102.2l120.6,69.6c14.7,8.5,14.7,22.2,0,30.7l-120.6,69.6
+		c-14.7,8.5-38.5,8.5-53.2,0L22.8,202.6c-14.7-8.5-14.7-22.2,0-30.7l120.6-69.6C158.1,93.8,181.9,93.8,196.6,102.2z"/>
+</g>
+<g>
+	<g>
+		<defs>
+			<polygon id="transparent-block-clip-path-polygon" points="170,8.5 82.8,58.8 82.8,187.4 170,237.8 257.2,187.4 257.2,58.8 			"/>
+		</defs>
+		<clipPath id="transparent-block-clip-path">
+			<use xlink:href="#transparent-block-clip-path-polygon"  style="overflow:visible;"/>
+		</clipPath>
+		<g id="transparent-block-tower" style="clip-path:url(#transparent-block-clip-path);">
+			<g id="transparent-block-tower-inner">
+				
+					<linearGradient id="transparent-block-shading_00000183214755628939467360000012394159659937911733_" gradientUnits="userSpaceOnUse" x1="165.8459" y1="884.0409" x2="181.7124" y2="1000.0879" gradientTransform="matrix(1 0 0 1 0 -780)">
+					<stop  offset="0.125" style="stop-color:#17191B"/>
+					<stop  offset="1" style="stop-color:#1A8F8E;stop-opacity:0"/>
+				</linearGradient>
+				
+					<path id="transparent-block-shading" style="fill:url(#transparent-block-shading_00000183214755628939467360000012394159659937911733_);" d="
+					M244.5,65.6v127.3l0,0c0,1.1-0.6,2.2-1.7,2.9L177.5,234c-5,2.9-11.1,2.9-16.1,0l-65.6-38.3c-1.1-0.7-1.7-1.8-1.7-2.9v0.1V65.6"
+					/>
+				
+					<linearGradient id="transparent-block-top_00000008124071697087923100000005566122481037982620_" gradientUnits="userSpaceOnUse" x1="244.2399" y1="828.366" x2="-181.4882" y2="928.1816" gradientTransform="matrix(1 0 0 1 0 -780)">
+					<stop  offset="0" style="stop-color:#000000"/>
+					<stop  offset="1" style="stop-color:#128FA3"/>
+				</linearGradient>
+				
+					<path id="transparent-block-top" style="fill:url(#transparent-block-top_00000008124071697087923100000005566122481037982620_);" d="
+					M161.4,24.7L95.8,62.9c-2.2,1.3-2.2,4.5,0,5.9l65.6,38.3c5,2.9,11.1,2.9,16.1,0l65.3-38.3c2.2-1.3,2.2-4.5,0-5.8l-65.3-38.2
+					C172.5,21.8,166.4,21.8,161.4,24.7z"/>
+				
+					<linearGradient id="transparent-block-top-shading_00000147904899700458420210000009783438571701483430_" gradientUnits="userSpaceOnUse" x1="208.346" y1="826.0746" x2="117.861" y2="872.1951" gradientTransform="matrix(1 0 0 1 0 -780)">
+					<stop  offset="0" style="stop-color:#ECB8AB"/>
+					<stop  offset="1" style="stop-color:#666666;stop-opacity:0"/>
+				</linearGradient>
+				
+					<path id="transparent-block-top-shading" style="fill:url(#transparent-block-top-shading_00000147904899700458420210000009783438571701483430_);fill-opacity:0.2;" d="
+					M161.4,24.7L95.8,62.9c-2.2,1.3-2.2,4.5,0,5.9l65.6,38.3c5,2.9,11.1,2.9,16.1,0l65.3-38.3c2.2-1.3,2.2-4.5,0-5.8l-65.3-38.2
+					C172.5,21.8,166.4,21.8,161.4,24.7z"/>
+				<path style="fill:none;stroke:var(--outlineColour, #141516);stroke-width:0.6089;stroke-linejoin:round;" d="M161.4,24.7L95.8,62.9
+					c-2.2,1.3-2.2,4.5,0,5.9l65.6,38.3c5,2.9,11.1,2.9,16.1,0l65.3-38.3c2.2-1.3,2.2-4.5,0-5.8l-65.3-38.2
+					C172.5,21.8,166.4,21.8,161.4,24.7z"/>
+				<g style="opacity:0.6;">
+					<g>
+						<path style="fill:none;stroke:var(--outlineColour, #2395AC);stroke-width:0.9259;stroke-linejoin:round;" d="M94.1,86.6c0,1.1,0.6,2.3,1.7,2.9
+							l65.6,38.3c5,2.9,11.1,2.9,16.1,0l65.3-38.3c1.1-0.7,1.7-1.8,1.7-2.9"/>
+					</g>
+				</g>
+				<g style="opacity:0.6;">
+					<g>
+						<path style="fill:none;stroke:var(--outlineColour, #128FA3);stroke-width:0.9259;stroke-linejoin:round;" d="M94.1,107.5c0,1.1,0.6,2.3,1.7,2.9
+							l65.6,38.3c5,2.9,11.1,2.9,16.1,0l65.3-38.3c1.1-0.7,1.7-1.8,1.7-2.9"/>
+					</g>
+				</g>
+				<g style="opacity:0.6;">
+					<g>
+						<path style="fill:none;stroke:var(--outlineColour, #128FA3);stroke-width:0.9259;stroke-linejoin:round;" d="M94.1,128.5c0,1.1,0.6,2.3,1.7,2.9
+							l65.6,38.3c5,2.9,11.1,2.9,16.1,0l65.3-38.3c1.1-0.7,1.7-1.8,1.7-2.9"/>
+					</g>
+				</g>
+				<g style="opacity:0.6;">
+					<g>
+						<path style="fill:none;stroke:var(--outlineColour, #128FA3);stroke-width:0.9259;stroke-linejoin:round;" d="M94.1,149.4c0,1.1,0.6,2.3,1.7,2.9
+							l65.6,38.3c5,2.9,11.1,2.9,16.1,0l65.3-38.3c1.1-0.7,1.7-1.8,1.7-2.9"/>
+					</g>
+				</g>
+				<g style="opacity:0.6;">
+					<g>
+						<path style="fill:none;stroke:var(--outlineColour, #128FA3);stroke-width:0.9259;stroke-linejoin:round;" d="M94.1,170.3c0,1.1,0.6,2.3,1.7,2.9
+							l65.6,38.3c5,2.9,11.1,2.9,16.1,0l65.3-38.3c1.1-0.7,1.7-1.8,1.7-2.9"/>
+					</g>
+				</g>
+				<g style="opacity:0.75;">
+					<path style="fill:none;stroke:var(--outlineColour, #2395AC);stroke-width:0.9259;stroke-linejoin:round;" d="M94.1,65.8c0,1.1,0.6,2.3,1.7,2.9
+						l65.6,38.3c5,2.9,11.1,2.9,16.1,0l65.3-38.3c1.1-0.7,1.7-1.8,1.7-2.9"/>
+				</g>
+				<g style="opacity:0.2;">
+					<g>
+						<path style="fill:none;stroke:var(--outlineColour, #FEACA1);stroke-width:1.8518;stroke-linejoin:round;" d="M94.1,192.7c0,1.1,0.6,2.3,1.7,2.9
+							l65.6,38.3c5,2.9,11.1,2.9,16.1,0l65.3-38.3c1.1-0.7,1.7-1.8,1.7-2.9"/>
+					</g>
+					<g>
+						<path style="fill:none;stroke:var(--outlineColour, #FEACA1);stroke-width:0.9259;stroke-linejoin:round;" d="M94.1,191.8c0,1.1,0.6,2.3,1.7,2.9
+							l65.6,38.3c5,2.9,11.1,2.9,16.1,0l65.3-38.3c1.1-0.7,1.7-1.8,1.7-2.9"/>
+					</g>
+				</g>
+			</g>
+			<g>
+				<circle style="fill:var(--outlineColour, #FEACA1);" cx="237.3" cy="249.8" r="7.2"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
