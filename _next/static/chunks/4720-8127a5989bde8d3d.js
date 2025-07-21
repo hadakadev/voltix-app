@@ -296,7 +296,7 @@
                                     children: "Chart",
                                   }),
                                   (0, r.jsx)(l(), {
-                                    href: "https://x.com/Voltix_AI_ETH",
+                                    href: "https://x.com/VoltixAiProject",
                                     rel: "noopener noreferrer",
                                     target: "_blank",
                                     className: ""
@@ -305,7 +305,7 @@
                                     children: "Twitter",
                                   }),
                                   (0, r.jsx)(l(), {
-                                    href: "https://t.me/Voltix_AI_ETH",
+                                    href: "https://t.me/AiVoltix",
                                     rel: "noopener noreferrer",
                                     target: "_blank",
                                     className: ""
@@ -701,8 +701,8 @@
           { name: "Dexscreener", href: "https://dexscreener.com/ethereum/0x22b7cda8a04696bc41956f1b94dc1fc36a1290dd" },
         ],
         o = [
-          { name: "Telegram", href: "https://t.me/Voltix_AI_ETH" },
-          { name: "X", href: "https://x.com/Voltix_AI_ETH" },
+          { name: "Telegram", href: "https://t.me/AiVoltix" },
+          { name: "X", href: "https://x.com/VoltixAiProject" },
         ],
         i = [
           {
