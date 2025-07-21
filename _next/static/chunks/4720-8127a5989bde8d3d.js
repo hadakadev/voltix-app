@@ -314,7 +314,7 @@
                                     children: "Telegram",
                                   }),
                                   (0, r.jsx)(l(), {
-                                    href: "https://docs.voltix-ai.pro",
+                                    href: "https://docs.voltix-ai.cloud",
                                     rel: "noopener noreferrer",
                                     target: "_blank",
                                     className: ""
@@ -695,7 +695,7 @@
       let r = [
           {
             name: "Documentation",
-            href: "https://docs.voltix-ai.pro/",
+            href: "https://docs.voltix-ai.cloud/",
           },
           { name: "Dextools", href: "https://dextools.io/app/en/ether/pair-explorer/0x22b7cda8a04696bc41956f1b94dc1fc36a1290dd" },
           { name: "Dexscreener", href: "https://dexscreener.com/ethereum/0x22b7cda8a04696bc41956f1b94dc1fc36a1290dd" },
