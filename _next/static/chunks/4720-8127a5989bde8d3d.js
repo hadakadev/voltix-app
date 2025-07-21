@@ -260,7 +260,12 @@
                 rel: "noopener noreferrer",
                 target: "_blank",
                 className: "zIndex999 ".concat(i().navbarLogoLink),
-                children: "Voltix AI",
+                children: [
+                  (0, r.jsx)("img", {
+                    src: "/logo.1ad77578.png",
+                    style: {width: 200}
+                  })
+                ],
                 style: {color:'white',fontWeight:"bold",fontSize: 40}
               }),
               (0, r.jsxs)("div", {
