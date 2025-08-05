@@ -292,7 +292,7 @@
                                     }),
                                   }),
                                   (0, r.jsx)(l(), {
-                                    href: "https://dextools.io/app/en/ether/pair-explorer/0x22b7cda8a04696bc41956f1b94dc1fc36a1290dd",
+                                    href: "https://dextools.io/app/en/ether/pair-explorer/0xcomingsoon",
                                     rel: "noopener noreferrer",
                                     target: "_blank",
                                     className: ""
@@ -702,8 +702,8 @@
             name: "Documentation",
             href: "https://docs.voltix-ai.cloud/",
           },
-          { name: "Dextools", href: "https://dextools.io/app/en/ether/pair-explorer/0x22b7cda8a04696bc41956f1b94dc1fc36a1290dd" },
-          { name: "Dexscreener", href: "https://dexscreener.com/ethereum/0x22b7cda8a04696bc41956f1b94dc1fc36a1290dd" },
+          { name: "Dextools", href: "https://dextools.io/app/en/ether/pair-explorer/0xcomingsoon" },
+          { name: "Dexscreener", href: "https://dexscreener.com/ethereum/0xcomingsoon" },
         ],
         o = [
           { name: "Telegram", href: "https://t.me/AiVoltix" },
