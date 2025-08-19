@@ -292,7 +292,7 @@
                                     }),
                                   }),
                                   (0, r.jsx)(l(), {
-                                    href: "https://dextools.io/app/en/ether/pair-explorer/0x82D220F9BE5b4f75b7a3Dae98CA68F1819215E74",
+                                    href: "https://dextools.io/app/en/ether/pair-explorer/0xcomingsoon",
                                     rel: "noopener noreferrer",
                                     target: "_blank",
                                     className: ""
@@ -301,7 +301,7 @@
                                     children: "Chart",
                                   }),
                                   (0, r.jsx)(l(), {
-                                    href: "https://x.com/VoltixAiProject",
+                                    href: "https://x.com/VoltixAI",
                                     rel: "noopener noreferrer",
                                     target: "_blank",
                                     className: ""
@@ -310,7 +310,7 @@
                                     children: "Twitter",
                                   }),
                                   (0, r.jsx)(l(), {
-                                    href: "https://t.me/AiVoltix",
+                                    href: "https://t.me/voltixai_eth",
                                     rel: "noopener noreferrer",
                                     target: "_blank",
                                     className: ""
@@ -319,7 +319,7 @@
                                     children: "Telegram",
                                   }),
                                   (0, r.jsx)(l(), {
-                                    href: "https://docs.voltix-ai.cloud",
+                                    href: "https://docs.voltixai.pro",
                                     rel: "noopener noreferrer",
                                     target: "_blank",
                                     className: ""
@@ -700,14 +700,14 @@
       let r = [
           {
             name: "Documentation",
-            href: "https://docs.voltix-ai.cloud/",
+            href: "https://docs.voltixai.pro/",
           },
-          { name: "Dextools", href: "https://dextools.io/app/en/ether/pair-explorer/0x82D220F9BE5b4f75b7a3Dae98CA68F1819215E74" },
-          { name: "Dexscreener", href: "https://dexscreener.com/ethereum/0x82D220F9BE5b4f75b7a3Dae98CA68F1819215E74" },
+          { name: "Dextools", href: "https://dextools.io/app/en/ether/pair-explorer/0xcomingsoon" },
+          { name: "Dexscreener", href: "https://dexscreener.com/ethereum/0xcomingsoon" },
         ],
         o = [
-          { name: "Telegram", href: "https://t.me/AiVoltix" },
-          { name: "X", href: "https://x.com/VoltixAiProject" },
+          { name: "Telegram", href: "https://t.me/voltixai_eth" },
+          { name: "X", href: "https://x.com/VoltixAI" },
         ],
         i = [
           {
