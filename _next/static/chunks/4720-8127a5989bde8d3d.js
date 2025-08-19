@@ -292,7 +292,7 @@
                                     }),
                                   }),
                                   (0, r.jsx)(l(), {
-                                    href: "https://dextools.io/app/en/ether/pair-explorer/0xcomingsoon",
+                                    href: "https://dextools.io/app/en/ether/pair-explorer/0x25f6Ac07a4E428001AF9881e7464AA2611eD3DdE",
                                     rel: "noopener noreferrer",
                                     target: "_blank",
                                     className: ""
@@ -702,8 +702,8 @@
             name: "Documentation",
             href: "https://docs.voltixai.pro/",
           },
-          { name: "Dextools", href: "https://dextools.io/app/en/ether/pair-explorer/0xcomingsoon" },
-          { name: "Dexscreener", href: "https://dexscreener.com/ethereum/0xcomingsoon" },
+          { name: "Dextools", href: "https://dextools.io/app/en/ether/pair-explorer/0x25f6Ac07a4E428001AF9881e7464AA2611eD3DdE" },
+          { name: "Dexscreener", href: "https://dexscreener.com/ethereum/0x25f6Ac07a4E428001AF9881e7464AA2611eD3DdE" },
         ],
         o = [
           { name: "Telegram", href: "https://t.me/voltixai_eth" },
